@@ -7,7 +7,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class FisrtJavaFxExample extends Application {
+public class FirstJavaFxExample extends Application {
 
 	Label l1;
 	Button b1;
